@@ -2,4 +2,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="UK SPORTS: BBC HD" tvg-logo="http://img.lb-ss.com:80/images/tv/183694_393bea4545fd7d5d5982e34baf9f3693.png" group-title="BBC",BBC HD
 https://ve-uhd-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_041/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-id="" tvg-name="UK SPORTS: ITV" tvg-logo="http://img.lb-ss.com:80/images/tv/183694_393bea4545fd7d5d5982e34baf9f3693.png" group-title="ITV",ITV HD
+https://stvwest.akamaized.net/out/v1/0a8c175eec414b0d8bf7ac8178ad7aae/index.m3u8
 
