@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Sports | United Kingdom" tvg-id="2889" tvg-logo="[img]http://epg.one/img/2889.png[/img]" tvg-rec="3",TNT Sports 1 FHD UK
+#EXTINF:-1 tvg-id="AragonD.TV" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="Deportes" tvg-name="Aragón Deporte",Aragón Deporte
+#EXTVLCOPT:network-caching=3000
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/2505/index.m3u8
