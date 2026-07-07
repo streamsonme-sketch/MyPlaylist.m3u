@@ -1,6 +1,5 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="UK SPORTS: SuperSport Variety 1 Africa HD" tvg-logo="http://img.lb-ss.com:80/images/tv/183694_393bea4545fd7d5d5982e34baf9f3693.png" group-title="DSTV TV [SPORTS]",DSTV: SuperSport Variety 1 Africa HD
+#EXTINF:-1 tvg-id="" tvg-name="UK SPORTS: BBC HD" tvg-logo="http://img.lb-ss.com:80/images/tv/183694_393bea4545fd7d5d5982e34baf9f3693.png" group-title="BBC",BBC HD
 https://ve-uhd-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_041/iptv_uhd_v1.mpd
-#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="UK SPORTS: Sky Sports Premier League" tvg-logo="http://img.lb-ss.com:80/images/tv/192892_393bea4545fd7d5d5982e34baf9f3693.png" group-title="DSTV TV [SPORTS]",DSTV: SuperSport Variety 1 FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/9334/index.m3u8
+
